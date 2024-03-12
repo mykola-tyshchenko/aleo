@@ -1,6 +1,10 @@
 # aleo_test.aleo
 
 ## Build Guide
+Discord:
+```bash
+rok4chick
+```
 
 To compile this Aleo program, run:
 ```bash
